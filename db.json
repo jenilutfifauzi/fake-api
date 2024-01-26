@@ -11,6 +11,23 @@
       "title": "hello"
     }
   ],
+  "products": [
+    {
+      "id": 1,
+      "name": "pencil",
+      "price": 2000
+    },
+    {
+      "id": 2,
+      "name": "book",
+      "price": 4000
+    },
+    {
+      "id": 3,
+      "name": "aqua",
+      "price": 10000
+    },
+  ],
   "comment": {
     "post_id": "1",
     "body": "ok"
