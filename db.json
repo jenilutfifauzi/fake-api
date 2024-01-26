@@ -11,13 +11,6 @@
       "title": "hello"
     }
   ],
-  "products": [
-    {
-      "id": 1,
-      "name": "pencil",
-      "price": "2000"
-    }
-  ],
   "comment": {
     "post_id": "1",
     "body": "ok"
