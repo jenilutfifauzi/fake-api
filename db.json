@@ -16,16 +16,6 @@
       "id": 1,
       "name": "pencil",
       "price": "2000"
-    },
-    {
-      "id": 2,
-      "name": "book",
-      "price": "1000"
-    },
-    {
-      "id": 3,
-      "name": "aqua",
-      "price": "10000"
     }
   ],
   "comment": {
